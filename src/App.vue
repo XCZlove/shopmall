@@ -2,7 +2,6 @@
   <div id="app">
     <keep-alive exclude="Detail">
     <router-view></router-view>
-    <h1>哈哈哈</h1>
     </keep-alive>
     <MainTabbar></MainTabbar>
   </div>
